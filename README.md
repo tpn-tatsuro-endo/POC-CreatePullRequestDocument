@@ -1,0 +1,2 @@
+# POC-CreatePullRequestDocument
+マージ・プルリクエストの際に差分内容から自動で設計書を作成するPOC
