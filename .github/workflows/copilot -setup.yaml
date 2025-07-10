@@ -3,9 +3,9 @@ name: "Copilot Setup Steps"
 on:
   workflow_dispatch:
   push:
-    paths: [.github/workflows/copilot-setup.yml]
+    paths: [.github/workflows/copilot-setup.yaml]
   pull_request:
-    paths: [.github/workflows/copilot-setup-steps.yml]
+    paths: [.github/workflows/copilot-setup.yaml]
 
 jobs:
   copilot-setup-steps:
